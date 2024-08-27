@@ -7,3 +7,10 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+
+# creating users
+# User.create(user_name: "Mahendra Singh Dhoni", password: "msd@123")
+# User.create(user_name: "Virat Kohli", password: "vk@123")
+# User.create(user_name: "Rohit Sharma", password: "rs@123")
+
+
